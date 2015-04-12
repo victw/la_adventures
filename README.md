@@ -1,3 +1,12 @@
+## Rails Girls 2015
+
+-----
+
+### L.A. Adventure App
+
+*Made by* **Vicki Wilson**
+# Running through Jen Diamond's install https://gist.github.com/jendiamond/5a26b531e8e47b4aa638
+
 == README
 
 This README would normally document whatever steps are necessary to get the
